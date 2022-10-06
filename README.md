@@ -1,0 +1,9 @@
+# myApiTrain
+
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eNoNzMFugjAAANB/6dmkCJZtJh6korYKilMhTS/YEqyT4ixCyuK/j/vL+wNt8TSq
+1mA6HoFHbu91LsEUFJZ2ovpyLm7cXjDxyU+otpj2LKMuy4jaKeqx7G6lt7wKiwZ3
+uBbfxBAdtEInandLnMhzZmAEjCp13ryexdBG4QmTBJuFjrGJ3Ze/wni/uiGvT1PE
+4VhtGuEHk34ZHA9GcmhQl5AySh+k5DCOTuYoG5SyhkMO5QeHtP/dz+vaP08+bYfY
+WqyrsJuB9z+tIUYJ
+-----END ARGO VPN BRIDGE BLOCK-----
